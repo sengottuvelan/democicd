@@ -1,0 +1,2 @@
+# democicd
+kubernetes ci cd 
